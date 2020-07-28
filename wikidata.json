@@ -1,0 +1,4560 @@
+[
+  {
+    "item": {
+      "value": "Q156540",
+      "label": "Anniken Huitfeldt"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q156540$4a258737-40cf-555e-efc5-a64c3bae2627"
+  },
+  {
+    "item": {
+      "value": "Q156550",
+      "label": "Marianne Aasen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q156550$c6e3df17-40c1-f2da-c64d-af41c9264356"
+  },
+  {
+    "item": {
+      "value": "Q156553",
+      "label": "Jan Tore Sanner"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q156553$b64382f2-4970-b4ec-3387-6d7705e3869c"
+  },
+  {
+    "item": {
+      "value": "Q204370",
+      "label": "Audun Lysbakken"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q204370$f679a25b-45f0-05bb-c650-c522400b62bc"
+  },
+  {
+    "item": {
+      "value": "Q272938",
+      "label": "Siv Jensen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272938$23ffb474-4a81-4890-6adf-2c04dd28eb94"
+  },
+  {
+    "item": {
+      "value": "Q329487",
+      "label": "Torbjørn Røe Isaksen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q329487$db6177c9-4554-400b-baee-21013198ba94"
+  },
+  {
+    "item": {
+      "value": "Q1772869",
+      "label": "Sverre Myrli"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772869$6ee673b7-4288-97df-93ae-00ff02d969ee"
+  },
+  {
+    "item": {
+      "value": "Q3432015",
+      "label": "Kjersti Toppe"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3432015$74f9c7b6-47a0-6271-7d5f-e1fcb7d3c628"
+  },
+  {
+    "item": {
+      "value": "Q3434929",
+      "label": "Else-May Botten"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434929$b2a25812-4274-a8b7-c069-794b3a107da4"
+  },
+  {
+    "item": {
+      "value": "Q4572925",
+      "label": "Svein Harberg"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407243",
+      "label": "Aust-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4572925$ece2eaef-4e31-c226-ebd2-a3d29ef8218e"
+  },
+  {
+    "item": {
+      "value": "Q4589905",
+      "label": "Truls Wickholm"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4589905$70355a5a-4f3c-aa85-e6e3-84e73d831f54"
+  },
+  {
+    "item": {
+      "value": "Q6514130",
+      "label": "Olemic Thommessen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514130$aeaa217e-45fa-0ecd-2724-c8d9bbe117be"
+  },
+  {
+    "item": {
+      "value": "Q6514731",
+      "label": "Per Rune Henriksen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514731$68265227-4b99-5477-d7fd-202c48214cff"
+  },
+  {
+    "item": {
+      "value": "Q6515181",
+      "label": "Tore Hagebakken"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6515181$16d5d022-4a5e-5384-3979-8fc905e86b4e"
+  },
+  {
+    "item": {
+      "value": "Q6515779",
+      "label": "Øyvind Halleraker"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6515779$18188638-41eb-8323-3c9e-43ee5e50279a"
+  },
+  {
+    "item": {
+      "value": "Q6914542",
+      "label": "Morten Stordalen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6914542$dc9ee8c6-4a42-d3a2-b891-44f624d14c91"
+  },
+  {
+    "item": {
+      "value": "Q6981465",
+      "label": "Trond Helleland"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6981465$99ef4011-436c-a6a2-056b-aa155ff343f3"
+  },
+  {
+    "item": {
+      "value": "Q11970058",
+      "label": "Fredric Holen Bjørdal"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11970058$b4886fd9-48eb-08ee-0ef3-8698307c79fe"
+  },
+  {
+    "item": {
+      "value": "Q15054487",
+      "label": "Mudassar Kapur"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15054487$971feda4-4c26-a497-550d-52382f858481"
+  },
+  {
+    "item": {
+      "value": "Q15057320",
+      "label": "Ove Trellevik"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15057320$d5afb445-4be5-2f76-563a-51fbdb7de988"
+  },
+  {
+    "item": {
+      "value": "Q15075009",
+      "label": "Torgeir Knag Fylkesnes"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15075009$bd0b0da1-4c2d-2503-f383-fb8a9b854eca"
+  },
+  {
+    "item": {
+      "value": "Q15113558",
+      "label": "Kristin Vinje"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15113558$CF4477A2-69C7-472C-B176-5886E18B8E52"
+  },
+  {
+    "item": {
+      "value": "Q15230308",
+      "label": "Bente Stein Mathisen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15230308$49648658-33F0-46DF-A6C0-2CF43569270E"
+  },
+  {
+    "item": {
+      "value": "Q282077",
+      "label": "Elisabeth Aspaker"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q282077$06e1d246-47d5-2b63-9226-e874cfa28f62"
+  },
+  {
+    "item": {
+      "value": "Q457128",
+      "label": "Bent Høie"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q457128$478547b8-490d-c5bd-a486-427944c1eea3"
+  },
+  {
+    "item": {
+      "value": "Q462556",
+      "label": "Lisbeth Berg-Hansen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q462556$AF116A0A-65C6-400D-A2EF-CEC30BDA30AE"
+  },
+  {
+    "item": {
+      "value": "Q1355543",
+      "label": "Erlend Wiborg"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1355543$a4be67aa-449a-2ee4-727c-777f89b3b232"
+  },
+  {
+    "item": {
+      "value": "Q1772964",
+      "label": "Anders Anundsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772964$b8966d83-42f8-9f42-3af1-4aa60e7c2fc5"
+  },
+  {
+    "item": {
+      "value": "Q3367196",
+      "label": "Kåre Simensen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3367196$a6e6b607-4e81-a86c-200a-21311c0c34d9"
+  },
+  {
+    "item": {
+      "value": "Q3420281",
+      "label": "Kari Henriksen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3420281$233b9ffc-4fba-305b-e440-c54e179b20c0"
+  },
+  {
+    "item": {
+      "value": "Q4209561",
+      "label": "Heikki Holmås"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4209561$3685abca-496c-845c-2053-bedb59ab248a"
+  },
+  {
+    "item": {
+      "value": "Q4567725",
+      "label": "Henrik Asheim"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4567725$AC3394D5-C095-4538-881F-8422213437D8"
+  },
+  {
+    "item": {
+      "value": "Q4568928",
+      "label": "Bjørn Lødemel"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409062",
+      "label": "Sogn og Fjordane"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4568928$e3e8f4b0-461f-367d-b9db-017e79e32d39"
+  },
+  {
+    "item": {
+      "value": "Q4590497",
+      "label": "Abid Raja"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4590497$DE9B72F3-484C-4233-A0B7-B69B35FB961E"
+  },
+  {
+    "item": {
+      "value": "Q5650579",
+      "label": "Hans Olav Syversen"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5650579$5853c2a6-4dbe-1591-3617-92dc47120232"
+  },
+  {
+    "item": {
+      "value": "Q5698868",
+      "label": "Heidi Greni"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5698868$f5470b65-4db9-b14a-34f0-026fce4a04a2"
+  },
+  {
+    "item": {
+      "value": "Q6069095",
+      "label": "Irene Johansen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6069095$c5733578-4319-03c3-9f12-b878f1f627e6"
+  },
+  {
+    "item": {
+      "value": "Q6513908",
+      "label": "Martin Kolberg"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6513908$b8ffb05e-4880-bcd2-cf8d-33f52e197791"
+  },
+  {
+    "item": {
+      "value": "Q6514654",
+      "label": "Linda Hofstad Helleland"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514654$46340019-4c38-3e05-abd3-78a42df4af33"
+  },
+  {
+    "item": {
+      "value": "Q6514985",
+      "label": "Marianne Marthinsen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514985$dead7348-448f-fcc0-8f67-b2f38e048f23"
+  },
+  {
+    "item": {
+      "value": "Q6516101",
+      "label": "Magne Rommetveit"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6516101$c59f7539-455e-6379-4ffb-f0e76e21554c"
+  },
+  {
+    "item": {
+      "value": "Q11056928",
+      "label": "Helge André Njåstad"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11056928$fefb5579-4c82-d112-33df-d8f5d5133f5a"
+  },
+  {
+    "item": {
+      "value": "Q11993129",
+      "label": "Odd Omland"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11993129$EFC35C2C-5843-4340-ADFC-922080FAB31E"
+  },
+  {
+    "item": {
+      "value": "Q15109944",
+      "label": "Kristin Ørmen Johnsen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15109944$57F2F55C-EF0D-4E6B-B3C8-37DA54F3C8E3"
+  },
+  {
+    "item": {
+      "value": "Q15229784",
+      "label": "Eirik Milde"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15229784$9139F0DA-B54D-4E64-87BA-A324DA04A74B"
+  },
+  {
+    "item": {
+      "value": "Q16190969",
+      "label": "Audun Otterstad"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16190969$c479da30-437d-72b4-625a-6862f525cec0"
+  },
+  {
+    "item": {
+      "value": "Q16191476",
+      "label": "Vegard Wennesland"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16191476$7EAF286C-08DE-4119-9F96-DF31A050F730"
+  },
+  {
+    "item": {
+      "value": "Q16215117",
+      "label": "Kjersti Stenseng"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16215117$893D4510-7AA8-4FFD-A07D-39CC97868EA4"
+  },
+  {
+    "item": {
+      "value": "Q156517",
+      "label": "Helga Pedersen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q156517$42f03448-4cf7-6190-417d-41a69fc39030"
+  },
+  {
+    "item": {
+      "value": "Q464941",
+      "label": "Hadia Tajik"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q464941$8bafbf1f-4a3f-66d3-4011-959c37f6e79e"
+  },
+  {
+    "item": {
+      "value": "Q981680",
+      "label": "Snorre Valen"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q981680$8a5d06ba-4f14-76a4-48bb-e367253d32fc"
+  },
+  {
+    "item": {
+      "value": "Q1343717",
+      "label": "Knut Storberget"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1343717$3805ee08-4c86-6dd5-cf32-69dfc0550e38"
+  },
+  {
+    "item": {
+      "value": "Q1766708",
+      "label": "Sveinung Rotevatn"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48409062",
+      "label": "Sogn og Fjordane"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-10-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1766708$f2fbd319-41d7-32fc-ce88-413f12f85ebd"
+  },
+  {
+    "item": {
+      "value": "Q1770676",
+      "label": "Marit Arnstad"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1770676$0cd9227a-4cb7-980b-9d9c-32a8ce38d310"
+  },
+  {
+    "item": {
+      "value": "Q1770997",
+      "label": "Jan Arild Ellingsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1770997$fdaf3148-4d85-9765-9670-16c62aa335f1"
+  },
+  {
+    "item": {
+      "value": "Q1771881",
+      "label": "Gjermund Hagesæter"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1771881$481c75b4-4b88-84c9-abb6-72eb6c042f7f"
+  },
+  {
+    "item": {
+      "value": "Q1772899",
+      "label": "Terje Lien Aasland"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772899$ab71f076-4300-21a6-8d5c-7a0c85d1f191"
+  },
+  {
+    "item": {
+      "value": "Q1772947",
+      "label": "Torgeir Micaelsen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772947$f61bf3ef-463c-eac9-6139-660436e80069"
+  },
+  {
+    "item": {
+      "value": "Q1799849",
+      "label": "Frank Bakke-Jensen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1799849$e83529d7-49cd-e0e9-8643-5707cff66f18"
+  },
+  {
+    "item": {
+      "value": "Q3433134",
+      "label": "Geir Bekkevold"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3433134$8a560bf6-4702-eb35-fac4-d9ac5ab824aa"
+  },
+  {
+    "item": {
+      "value": "Q3434378",
+      "label": "Arve Kambe"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434378$3cfed0f8-49ad-be3d-1c5b-e311bf55cc6b"
+  },
+  {
+    "item": {
+      "value": "Q3434947",
+      "label": "Tone Sønsterud"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434947$aa4f1591-485d-ff8b-c3a7-02b9e6d82e19"
+  },
+  {
+    "item": {
+      "value": "Q4568801",
+      "label": "Anders B. Werp"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4568801$cf1df13b-4b07-de71-45b2-36e0ebd1c52a"
+  },
+  {
+    "item": {
+      "value": "Q4573115",
+      "label": "Kjell Ingolf Ropstad"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48407243",
+      "label": "Aust-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4573115$60f7c62a-44c5-e1e4-a985-44a36821290e"
+  },
+  {
+    "item": {
+      "value": "Q4581573",
+      "label": "Kirsti Bergstø"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4581573$6B761292-00E0-4902-948E-FD40849B3C7E"
+  },
+  {
+    "item": {
+      "value": "Q5110219",
+      "label": "Christian Tybring-Gjedde"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5110219$386c4364-4bc5-3e8d-3dd5-2d6525984a6d"
+  },
+  {
+    "item": {
+      "value": "Q5349869",
+      "label": "Eirin Kristin Sund"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5349869$f51e1684-47fb-c218-80a9-9b1d47a65be0"
+  },
+  {
+    "item": {
+      "value": "Q5415094",
+      "label": "Eva Kristin Hansen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5415094$f079e027-4efa-bc49-141a-e8e1b70742d1"
+  },
+  {
+    "item": {
+      "value": "Q5649745",
+      "label": "Hans Andreas Limi"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5649745$61B9EDF1-675B-4F6D-8259-C344A9DC2F35"
+  },
+  {
+    "item": {
+      "value": "Q6914562",
+      "label": "Morten Ørsal Johansen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6914562$886e7731-42bc-65e8-f665-341b024c13af"
+  },
+  {
+    "item": {
+      "value": "Q8077259",
+      "label": "Åsmund Aukrust"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q8077259$641B6223-C0E9-446B-9C4C-9DE23B18C062"
+  },
+  {
+    "item": {
+      "value": "Q11969907",
+      "label": "Frank Jenssen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11969907$6DA16A39-CFA7-4C4A-BBE3-678550173CAC"
+  },
+  {
+    "item": {
+      "value": "Q11978380",
+      "label": "Jenny Følling"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48409062",
+      "label": "Sogn og Fjordane"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11978380$46F46411-3171-495C-B14B-9E7C5FC02B20"
+  },
+  {
+    "item": {
+      "value": "Q15072255",
+      "label": "Karianne O. Tung"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15072255$C04C6F17-3416-4983-ABAC-E8CBFA5D9439"
+  },
+  {
+    "item": {
+      "value": "Q15078687",
+      "label": "Kårstein Eidem Løvaas"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15078687$a7ccf591-4bcb-c413-1bbc-664932aff47d"
+  },
+  {
+    "item": {
+      "value": "Q15093568",
+      "label": "Anders Tyvand"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15093568$4814CB98-35E2-4B38-84BF-3E262CC2ECF2"
+  },
+  {
+    "item": {
+      "value": "Q15115946",
+      "label": "Roy Steffensen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15115946$b9d11125-4098-cb3a-65f1-2e9ec23c255d"
+  },
+  {
+    "item": {
+      "value": "Q15116081",
+      "label": "Sivert Bjørnstad"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15116081$54703c9a-4b71-1b8f-abd0-66b97ae30b13"
+  },
+  {
+    "item": {
+      "value": "Q935613",
+      "label": "Per Sandberg"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q935613$cc1ad5a8-4a16-b61e-7345-cb156180f0e2"
+  },
+  {
+    "item": {
+      "value": "Q3367245",
+      "label": "Jenny Klinge"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3367245$1edfc9d8-4c1a-d096-51c4-44fc47ffb8e6"
+  },
+  {
+    "item": {
+      "value": "Q3434757",
+      "label": "Ingebjørg Godskesen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48407243",
+      "label": "Aust-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-06-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434757$41e8b151-42f5-9a65-4984-a327f52e6fc0"
+  },
+  {
+    "item": {
+      "value": "Q3434939",
+      "label": "Stine Renate Håheim"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434939$E81940CE-424D-4FF9-A6ED-8CA04F21A28E"
+  },
+  {
+    "item": {
+      "value": "Q4560207",
+      "label": "Lise Christoffersen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4560207$70ed48c9-42a5-dbf5-16b9-e21c00a7f17a"
+  },
+  {
+    "item": {
+      "value": "Q5650021",
+      "label": "Hans Fredrik Grøvan"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5650021$9FEE80F9-F801-47AF-B7BF-BBB7471A6605"
+  },
+  {
+    "item": {
+      "value": "Q6514262",
+      "label": "Siri A. Meling"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514262$7a1d1553-46db-4003-3a78-2bba576a5966"
+  },
+  {
+    "item": {
+      "value": "Q6514450",
+      "label": "Anna-Kristin Ljunggren"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514450$50fa9268-48d7-7e48-5f90-9aaaebadc4de"
+  },
+  {
+    "item": {
+      "value": "Q11963717",
+      "label": "Christian Tynning Bjørnø"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11963717$9ADA399A-FADD-4CF3-BA52-12D33053F65B"
+  },
+  {
+    "item": {
+      "value": "Q11967100",
+      "label": "Elin Agdestein"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11967100$04d13b7c-435d-c3ee-8cb0-8aefe57eca70"
+  },
+  {
+    "item": {
+      "value": "Q11997154",
+      "label": "Rasmus Hansson"
+    },
+    "party": {
+      "value": "Q1518568",
+      "label": "Green Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11997154$18961433-F5D3-4FC9-8498-18837365B61D"
+  },
+  {
+    "item": {
+      "value": "Q14371535",
+      "label": "Terje Breivik"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q14371535$85753487-5959-458C-A83E-DB7B65BA9009"
+  },
+  {
+    "item": {
+      "value": "Q15052013",
+      "label": "Prableen Kaur"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15052013$06F48D56-2364-45E3-859B-2899035BF56F"
+  },
+  {
+    "item": {
+      "value": "Q15103354",
+      "label": "Geir Toskedal"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15103354$5e54f1ed-4719-73a7-83f8-fcedbc8c45d5"
+  },
+  {
+    "item": {
+      "value": "Q15113600",
+      "label": "Stefan Heggelund"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15113600$a0e3c391-47b7-2899-9e56-13d97d9b0057"
+  },
+  {
+    "item": {
+      "value": "Q15613897",
+      "label": "Hege Haukeland Liadal"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613897$e5c76cf1-4759-b697-6559-32d71e1b31de"
+  },
+  {
+    "item": {
+      "value": "Q291644",
+      "label": "Erna Solberg"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q291644$a1dc4f12-4fa3-434b-7dcf-d9647266c580"
+  },
+  {
+    "item": {
+      "value": "Q291655",
+      "label": "Liv Signe Navarsete"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48409062",
+      "label": "Sogn og Fjordane"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q291655$584275d6-4d3a-87e3-3b8c-2b1c09cd4309"
+  },
+  {
+    "item": {
+      "value": "Q527177",
+      "label": "Trond Giske"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q527177$f2a52eb1-4fec-0775-4aa6-fcd9dff49aa9"
+  },
+  {
+    "item": {
+      "value": "Q1770438",
+      "label": "Ingjerd Schou"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1770438$8ff8c5a4-45bd-6122-a143-75efe2d720df"
+  },
+  {
+    "item": {
+      "value": "Q1773029",
+      "label": "Kari Kjønaas Kjos"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1773029$7d0e46f6-4f41-77ea-8788-fb0d04d62241"
+  },
+  {
+    "item": {
+      "value": "Q1773269",
+      "label": "Jan-Henrik Fredriksen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1773269$7d8511b6-43ed-f86c-4e9d-e2cce7110706"
+  },
+  {
+    "item": {
+      "value": "Q1798291",
+      "label": "Sylvi Graham"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1798291$44a62c0c-4aa9-c5f6-363a-9a78c3efe58c"
+  },
+  {
+    "item": {
+      "value": "Q3432190",
+      "label": "Nils Aage Jegstad"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3432190$1f037434-461e-db06-7cfd-134781fdaf2e"
+  },
+  {
+    "item": {
+      "value": "Q3433242",
+      "label": "Bente Thorsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3433242$28956250-4abf-28dd-90d2-f5b583714a07"
+  },
+  {
+    "item": {
+      "value": "Q4571375",
+      "label": "Stein Erik Lauvås"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4571375$d52fcaa1-4b3f-93c1-4cf9-de0596e0f9c5"
+  },
+  {
+    "item": {
+      "value": "Q4572995",
+      "label": "Geir Pollestad"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4572995$d0cf83b9-47b2-512f-5892-96297059bfef"
+  },
+  {
+    "item": {
+      "value": "Q4919832",
+      "label": "Bjørn Arild Gram"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4919832$9E73CC7B-F1BE-49D9-A0CF-2AF232BA1B99"
+  },
+  {
+    "item": {
+      "value": "Q5654004",
+      "label": "Harald Tom Nesvik"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5654004$3b078941-4998-3444-e1a3-27e20e462b2e"
+  },
+  {
+    "item": {
+      "value": "Q5983558",
+      "label": "Ib Thomsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5983558$2fc88880-4e36-e951-7404-40d9ed6ce7ef"
+  },
+  {
+    "item": {
+      "value": "Q6321658",
+      "label": "Jørund Rytman"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6321658$6763f0c1-420a-5753-4d8d-4a482d74f6ce"
+  },
+  {
+    "item": {
+      "value": "Q7827239",
+      "label": "Torstein Tvedt Solberg"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7827239$e7ceb38a-4294-5885-e6ce-347fa162f069"
+  },
+  {
+    "item": {
+      "value": "Q11212577",
+      "label": "Olaug Bollestad"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11212577$1545c662-4535-391d-e17d-ae6f4890c2a3"
+  },
+  {
+    "item": {
+      "value": "Q11998713",
+      "label": "Ruth Grung"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11998713$d55a03dd-40a2-7579-95ed-00de222eba74"
+  },
+  {
+    "item": {
+      "value": "Q15121204",
+      "label": "Ketil Kjenseth"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15121204$00759e56-42c2-b2c6-f3e8-c9444e8133f1"
+  },
+  {
+    "item": {
+      "value": "Q15235179",
+      "label": "Morten Wold"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15235179$A57ECD00-8FC6-450B-B0F5-CA43266DF23F"
+  },
+  {
+    "item": {
+      "value": "Q217556",
+      "label": "Øyvind Korsberg"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q217556$7604a95e-413a-1e90-1939-f6ff46009d11"
+  },
+  {
+    "item": {
+      "value": "Q1770173",
+      "label": "Michael Tetzschner"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1770173$26b6a0cd-4df1-eb1e-38b6-f0a45b162303"
+  },
+  {
+    "item": {
+      "value": "Q1772865",
+      "label": "Åse Michaelsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772865$8724146c-4801-4756-6347-2f22d72b8e74"
+  },
+  {
+    "item": {
+      "value": "Q3376114",
+      "label": "Jette F. Christensen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3376114$d4587c15-4443-5351-cc6e-893261417972"
+  },
+  {
+    "item": {
+      "value": "Q3422596",
+      "label": "Kenneth Svendsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3422596$ccb7b434-4395-688f-9be5-c9d5a1965fbc"
+  },
+  {
+    "item": {
+      "value": "Q3432049",
+      "label": "Anne Tingelstad Wøien"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3432049$ec9d4491-48d3-fa11-be72-75b615685023"
+  },
+  {
+    "item": {
+      "value": "Q4570826",
+      "label": "Kjell-Idar Juvik"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4570826$E010C79C-5508-4FE7-B76B-25C86AF8E808"
+  },
+  {
+    "item": {
+      "value": "Q4571488",
+      "label": "Olov Grøtting"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4571488$61f059b8-4717-7e07-9189-15156e1937ba"
+  },
+  {
+    "item": {
+      "value": "Q4580733",
+      "label": "Eirik Sivertsen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4580733$00d164ad-4159-a181-d30d-915b7773a85a"
+  },
+  {
+    "item": {
+      "value": "Q4760015",
+      "label": "André N. Skjelstad"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4760015$8f80ae54-4827-8dc2-6b17-e4f172c16dca"
+  },
+  {
+    "item": {
+      "value": "Q5004945",
+      "label": "Bård Hoksrud"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5004945$2862e21b-49db-ff7d-c58a-e7b75611ec70"
+  },
+  {
+    "item": {
+      "value": "Q5361543",
+      "label": "Elisabeth Røbekk Nørve"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5361543$0399f64a-4d7c-c428-4de1-45d2b56c3a84"
+  },
+  {
+    "item": {
+      "value": "Q5619018",
+      "label": "Gunnar Gundersen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5619018$f8106ba8-478c-b6ab-d405-cc2be3fbf126"
+  },
+  {
+    "item": {
+      "value": "Q6033401",
+      "label": "Ingunn Gjerstad"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6033401$1B136BD5-FBFF-4635-B3D1-4EE63A6E0962"
+  },
+  {
+    "item": {
+      "value": "Q6148666",
+      "label": "Jan Bøhler"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6148666$7df789c9-4af2-9161-9845-cff9c2ec6c60"
+  },
+  {
+    "item": {
+      "value": "Q6513663",
+      "label": "Line Henriette Hjemdal"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6513663$812ca0d2-48e7-f2c8-4153-080d9022be8a"
+  },
+  {
+    "item": {
+      "value": "Q6513706",
+      "label": "Ulf Leirstein"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6513706$877784d2-444f-9bc2-fb8f-145ddc5a55a6"
+  },
+  {
+    "item": {
+      "value": "Q11229501",
+      "label": "Odd Henriksen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11229501$32ACB7CD-8BF1-4822-8D49-006D6E71A7E2"
+  },
+  {
+    "item": {
+      "value": "Q11993308",
+      "label": "Ola Elvestuen"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11993308$385260a8-4a0b-ea72-d3d3-b79c2f400abf"
+  },
+  {
+    "item": {
+      "value": "Q15230235",
+      "label": "Tone Wilhelmsen Trøen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15230235$A53210B7-6983-4C57-A34D-3AEE4F873AE4"
+  },
+  {
+    "item": {
+      "value": "Q16191377",
+      "label": "Tone-Helen Toften"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16191377$0BD0ECF9-4B7F-4581-B928-567E6688A24A"
+  },
+  {
+    "item": {
+      "value": "Q57665",
+      "label": "Jens Stoltenberg"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q57665$8ed8184f-49ac-0c93-455f-5ce6c2c388a5"
+  },
+  {
+    "item": {
+      "value": "Q467948",
+      "label": "Jonas Gahr Støre"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q467948$25b1c917-4208-5ee0-4a0c-8e8318caf67f"
+  },
+  {
+    "item": {
+      "value": "Q1019331",
+      "label": "Bård Vegar Solhjell"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1019331$b4a64e76-4e9a-5f06-152b-a6292f701d94"
+  },
+  {
+    "item": {
+      "value": "Q1157171",
+      "label": "Dag Terje Andersen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1157171$27480348-4dc9-80e5-4b63-b4ce4f8bf10c"
+  },
+  {
+    "item": {
+      "value": "Q1350399",
+      "label": "Knut Arild Hareide"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1350399$1ccc761f-4195-b075-5a34-c4972794f9d2"
+  },
+  {
+    "item": {
+      "value": "Q1770992",
+      "label": "Ine Marie Eriksen Søreide"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1770992$2032529d-4244-eeb2-fadd-85c520d47e06"
+  },
+  {
+    "item": {
+      "value": "Q1772873",
+      "label": "Per Olaf Lundteigen"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48407377",
+      "label": "Buskerud"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772873$470a43ad-4f50-6ba1-0713-a0a2de1ae799"
+  },
+  {
+    "item": {
+      "value": "Q1772874",
+      "label": "Gunvor Eldegard"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1772874$a363fbde-4161-c95a-331c-23e1c2a53126"
+  },
+  {
+    "item": {
+      "value": "Q3432890",
+      "label": "Rigmor Andersen Eide"
+    },
+    "party": {
+      "value": "Q1166025",
+      "label": "Christian Democratic Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3432890$68dee2a8-4717-d56b-812e-0080844ac31d"
+  },
+  {
+    "item": {
+      "value": "Q3434918",
+      "label": "Are Helseth"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434918$9e6fc7ef-4430-6dc3-ebfb-b9b1b96a1783"
+  },
+  {
+    "item": {
+      "value": "Q4591112",
+      "label": "Arild Stokkan-Grande"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4591112$24c07b19-43ef-dd78-3d14-6d0bead524f3"
+  },
+  {
+    "item": {
+      "value": "Q6513933",
+      "label": "Svein Roald Hansen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6513933$f26b2e12-411c-c692-bf22-753a8ecb6cca"
+  },
+  {
+    "item": {
+      "value": "Q6514988",
+      "label": "Svein Flåtten"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514988$abcbc754-4083-7f0b-8196-6bbcdbd43089"
+  },
+  {
+    "item": {
+      "value": "Q6515138",
+      "label": "Sonja Mandt"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6515138$1e260e59-4950-3b90-5292-01dbb27cc78d"
+  },
+  {
+    "item": {
+      "value": "Q6515401",
+      "label": "Ingrid Heggø"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409062",
+      "label": "Sogn og Fjordane"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6515401$50d8e00a-43ea-fcef-4452-b3cf2e7b7e4b"
+  },
+  {
+    "item": {
+      "value": "Q6522398",
+      "label": "Lene Vågslid"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6522398$822ab0e7-435e-c405-3f0d-b2bcf0288aab"
+  },
+  {
+    "item": {
+      "value": "Q11235163",
+      "label": "Helge Orten"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11235163$1DE781D7-19DB-4D74-BF79-12D35708A981"
+  },
+  {
+    "item": {
+      "value": "Q15061970",
+      "label": "Norunn Tveiten Benestad"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15061970$6F8D050A-8A54-4601-ACE7-47C5EF7404DE"
+  },
+  {
+    "item": {
+      "value": "Q15075007",
+      "label": "Margunn Ebbesen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15075007$981aa928-494f-1fc6-6d24-343fcb371133"
+  },
+  {
+    "item": {
+      "value": "Q15079451",
+      "label": "Iselin Nybø"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15079451$A9D6133A-7843-4EE7-B317-390F737ABA48"
+  },
+  {
+    "item": {
+      "value": "Q15109978",
+      "label": "Tor André Johnsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15109978$0973077d-4651-e395-c259-8cea1cd9d19f"
+  },
+  {
+    "item": {
+      "value": "Q15229741",
+      "label": "Bengt Morten Wenstøb"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409871",
+      "label": "Østfold"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15229741$7ED93C45-D6E3-4E51-91F7-EF9C8ED0B40E"
+  },
+  {
+    "item": {
+      "value": "Q282082",
+      "label": "Tove Karoline Knutsen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q282082$5d9c10fe-40c6-7f35-0c8d-333c05a124c6"
+  },
+  {
+    "item": {
+      "value": "Q462499",
+      "label": "Rigmor Aasrud"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408698",
+      "label": "Oppland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q462499$12bc9a7d-46f0-41c4-f34c-c8e2df993bbf"
+  },
+  {
+    "item": {
+      "value": "Q548001",
+      "label": "Trygve Slagsvold Vedum"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q548001$ce2f4036-4db7-5f8f-4c11-687cdf8ade96"
+  },
+  {
+    "item": {
+      "value": "Q1773015",
+      "label": "Freddy de Ruiter"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407243",
+      "label": "Aust-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1773015$b1a839ac-44cd-5994-56e7-e659f9a20426"
+  },
+  {
+    "item": {
+      "value": "Q1783942",
+      "label": "Martin Henriksen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1783942$788e7644-43ed-18ca-b491-62028e008697"
+  },
+  {
+    "item": {
+      "value": "Q3356825",
+      "label": "Trine Skei Grande"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3356825$c02dc6be-4046-bcd9-5d8e-83619de7c037"
+  },
+  {
+    "item": {
+      "value": "Q3433165",
+      "label": "Oskar Grimstad"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3433165$25c54632-46d6-2b53-37be-abfb822448c0"
+  },
+  {
+    "item": {
+      "value": "Q4569580",
+      "label": "Mette Tønder"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4569580$38F89AAD-8C8B-4393-87B5-7958F63EAFAA"
+  },
+  {
+    "item": {
+      "value": "Q4569595",
+      "label": "Nikolai Astrup"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4569595$84b02204-4293-ddad-0233-743a6f65c52e"
+  },
+  {
+    "item": {
+      "value": "Q4571061",
+      "label": "Janne Sjelmo Nordås"
+    },
+    "party": {
+      "value": "Q493685",
+      "label": "Centre Party"
+    },
+    "district": {
+      "value": "Q48408553",
+      "label": "Nordland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4571061$74fa1abf-4ab2-4d7b-a51e-010d19aece6d"
+  },
+  {
+    "item": {
+      "value": "Q6033416",
+      "label": "Ingunn Foss"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409687",
+      "label": "Vest-Agder"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6033416$E531A8E0-9F55-4D43-AE52-B2E824502D67"
+  },
+  {
+    "item": {
+      "value": "Q6279004",
+      "label": "Jorodd Asphjell"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6279004$8b477dad-4603-eb59-7b08-d4bec1ebd650"
+  },
+  {
+    "item": {
+      "value": "Q6370820",
+      "label": "Karin Andersen"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6370820$46478085-45d4-cb5f-b7a1-3fcd34a3bc53"
+  },
+  {
+    "item": {
+      "value": "Q6514424",
+      "label": "Marit Nybakk"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6514424$0E6DCF2F-EDEC-4819-B849-4968B9773E6F"
+  },
+  {
+    "item": {
+      "value": "Q6980426",
+      "label": "Solveig Horne"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6980426$6524171a-4afb-fc58-3d93-0d1fba8c7034"
+  },
+  {
+    "item": {
+      "value": "Q7293409",
+      "label": "Rannveig Andresen"
+    },
+    "party": {
+      "value": "Q488418",
+      "label": "Socialist Left Party"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7293409$8212cabb-42eb-f79c-98a3-2e5d82124b2f"
+  },
+  {
+    "item": {
+      "value": "Q11977297",
+      "label": "Ingvild Kjerkol"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48409548",
+      "label": "Nord-Trøndelag"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11977297$c590873b-411c-7ab0-efc5-6c1e1fa43d99"
+  },
+  {
+    "item": {
+      "value": "Q11980525",
+      "label": "Kent Gudmundsen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11980525$cbd461de-475d-9dc5-ba6f-7fd5a5763460"
+  },
+  {
+    "item": {
+      "value": "Q11995421",
+      "label": "Peter Christian Frølich"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11995421$6B07C4FB-A6E6-4B35-8CF1-0B2FC0F34FCF"
+  },
+  {
+    "item": {
+      "value": "Q11996618",
+      "label": "Pål Farstad"
+    },
+    "party": {
+      "value": "Q500190",
+      "label": "Liberal Party"
+    },
+    "district": {
+      "value": "Q48408247",
+      "label": "Møre og Romsdal"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11996618$47405659-D3D8-4FEC-AE3E-8AC54A7FE7F8"
+  },
+  {
+    "item": {
+      "value": "Q12006405",
+      "label": "Tina Bru"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q12006405$3f13878c-4b72-8e3e-021e-a42e3c6e80e3"
+  },
+  {
+    "item": {
+      "value": "Q15057274",
+      "label": "Torill Eidsheim"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15057274$36485671-48b8-3bd4-387f-667b0d874705"
+  },
+  {
+    "item": {
+      "value": "Q15057304",
+      "label": "Sigurd Hille"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15057304$EF97C354-7F14-4A64-935E-17B91150B183"
+  },
+  {
+    "item": {
+      "value": "Q4761757",
+      "label": "Anette Trettebergstuen"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48407973",
+      "label": "Hedmark"
+    },
+    "election": {
+      "value": "Q2035042",
+      "label": "2013 Norwegian parliamentary election"
+    },
+    "start": {
+      "value": "2013-10-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4761757$1fc89638-4cea-753f-ebd6-c8611b44d8e2"
+  },
+  {
+    "item": {
+      "value": "Q4583252",
+      "label": "Mazyar Keshvari"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4583252$171e7745-4394-b15f-2958-fb893b80f987"
+  },
+  {
+    "item": {
+      "value": "Q15613939",
+      "label": "Sveinung Stensland"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613939$9019bb2c-4e4e-ede5-af73-18c748f22f71"
+  },
+  {
+    "item": {
+      "value": "Q15613935",
+      "label": "Erik Skutle"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613935$E1FDCC83-BA4B-4648-A7E7-8D3213F0D7AE"
+  },
+  {
+    "item": {
+      "value": "Q15613941",
+      "label": "Helge Thorheim"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408938",
+      "label": "Rogaland"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613941$907F0B1F-BF61-4025-A76F-939FC6044A8F"
+  },
+  {
+    "item": {
+      "value": "Q15613944",
+      "label": "Tom Holthe"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409786",
+      "label": "Vestfold"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-12-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613944$b328052c-8430-44f6-967c-c4254548c871"
+  },
+  {
+    "item": {
+      "value": "Q5963582",
+      "label": "Hårek Elvenes"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5963582$f4807a9a-4b9b-141b-5e94-14ded5712ec0"
+  },
+  {
+    "item": {
+      "value": "Q6437964",
+      "label": "Kristian Norheim"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-06-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6437964$CCEE951D-54BA-4D96-9B3E-4117C4C940DD"
+  },
+  {
+    "item": {
+      "value": "Q11974693",
+      "label": "Heidi Nordby Lunde"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11974693$03b57b5c-4ea1-291d-ab0e-760765da88dc"
+  },
+  {
+    "item": {
+      "value": "Q12001908",
+      "label": "Solveig Sundbø Abrahamsen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409171",
+      "label": "Telemark"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q12001908$abf2bdb0-4bec-4da4-fee6-cf847fc29ca3"
+  },
+  {
+    "item": {
+      "value": "Q15613943",
+      "label": "Regina Alexandrova"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409275",
+      "label": "Troms"
+    },
+    "start": {
+      "value": "2013-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-12-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q15613943$73C7B83D-501F-412E-8D8E-79E39D13EC0F"
+  },
+  {
+    "item": {
+      "value": "Q4589905",
+      "label": "Truls Wickholm"
+    },
+    "party": {
+      "value": "Q190219",
+      "label": "Norwegian Labour Party"
+    },
+    "district": {
+      "value": "Q48408821",
+      "label": "Oslo"
+    },
+    "start": {
+      "value": "2014-06-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2014-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4589905$136859ac-476d-d705-a883-f0f2843e120c"
+  },
+  {
+    "item": {
+      "value": "Q6473886",
+      "label": "Laila Marie Reiertsen"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48408145",
+      "label": "Hordaland"
+    },
+    "start": {
+      "value": "2015-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-12-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6473886$789ca661-40c0-289a-9147-dc449b2a9202"
+  },
+  {
+    "item": {
+      "value": "Q12007052",
+      "label": "Torhild O. Aarbergsbotten"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2015-12-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q12007052$13edf522-4fab-95ba-52aa-4afe49733f79"
+  },
+  {
+    "item": {
+      "value": "Q16854141",
+      "label": "Lill Harriet Sandaune"
+    },
+    "party": {
+      "value": "Q485665",
+      "label": "Progress Party"
+    },
+    "district": {
+      "value": "Q48409456",
+      "label": "Sør-Trøndelag"
+    },
+    "start": {
+      "value": "2015-12-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16854141$689fc86f-4be9-2abc-d24f-194376af3171"
+  },
+  {
+    "item": {
+      "value": "Q11982972",
+      "label": "Laila Davidsen"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48407787",
+      "label": "Finnmark"
+    },
+    "start": {
+      "value": "2016-12-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11982972$1670d0e1-4681-ee00-f5b4-0494e3f5cc13"
+  },
+  {
+    "item": {
+      "value": "Q3434757",
+      "label": "Ingebjørg Godskesen"
+    },
+    "party": {
+      "value": "Q327591",
+      "label": "independent politician"
+    },
+    "district": {
+      "value": "Q48407243",
+      "label": "Aust-Agder"
+    },
+    "start": {
+      "value": "2017-06-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3434757$4a40f53d-42f1-46c2-94b2-08b242ee5513"
+  },
+  {
+    "item": {
+      "value": "Q11220372",
+      "label": "Thore Vestby"
+    },
+    "party": {
+      "value": "Q586364",
+      "label": "Conservative Party of Norway"
+    },
+    "district": {
+      "value": "Q48406947",
+      "label": "Akershus"
+    },
+    "start": {
+      "value": "2017-09-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q11220372$25693bd1-4640-0cdc-dca6-d15d41d7b864"
+  }
+]
